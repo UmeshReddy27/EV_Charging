@@ -199,6 +199,12 @@ Only load trusted `.pkl` files because pickle-based files can execute code when 
 - The tuned regression model achieved an R² score of 0.808.
 - The tuned classification model achieved approximately 89.94% accuracy and a 0.96 ROC-AUC score.
 
+## 🚀 Live Demo
+
+**[Click here to explore the EV Charging Demand Analytics Dashboard](https://YOUR-APP-URL.streamlit.app/)**
+
+Explore EV charging demand patterns, interactive dashboard filters, regression predictions, and classification results.
+
 ## ⚠️ Limitations
 
 - Model performance is based on the available dataset and its test split.
