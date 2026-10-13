@@ -201,7 +201,7 @@ Only load trusted `.pkl` files because pickle-based files can execute code when 
 
 ## 🚀 Live Demo
 
-**[Click here to explore the EV Charging Demand Analytics Dashboard]((https://evcharging27.streamlit.app/))**
+**[Click here to explore the EV Charging Demand Analytics Dashboard](https://evcharging27.streamlit.app/)**
 
 Explore EV charging demand patterns, interactive dashboard filters, regression predictions, and classification results.
 
